@@ -1,0 +1,7 @@
+{
+  "name": "SmartLiveStock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
